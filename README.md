@@ -7,6 +7,8 @@
 >   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 <p align="center">
+  ![image](https://github.com/user-attachments/assets/980dad23-62a4-4d3c-877e-bd4df8d63059)
+
   <a href="https://www.linkedin.com/in/artsiom-krasouski-88405b258/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

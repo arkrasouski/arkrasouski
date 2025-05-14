@@ -1,10 +1,16 @@
 
 ![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/3737f46e-16a3-4308-8c94-117b7240ad97)
 
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
 <a href="https://www.linkedin.com/in/artsiom-krasouski-88405b258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://t.me/arkrasouski"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+[![Написать на почту](https://img.shields.io/badge/Связаться-я@яндекс.ру-d92d2d?style=for-the-badge&logo=yandex&logoColor=white)](mailto:arkrasouski@arortem.ru)
 
-
-
+	yandex:ya
 
 ![Orange And White Gradient Workshop Banner (1)](https://github.com/user-attachments/assets/418c3a3f-b128-491f-88a4-52ab2b624bab)
 

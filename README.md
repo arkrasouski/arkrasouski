@@ -1,7 +1,7 @@
 
 ![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/3737f46e-16a3-4308-8c94-117b7240ad97)
 
-
+<a href="https://www.linkedin.com/in/artsiom-krasouski-88405b258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 

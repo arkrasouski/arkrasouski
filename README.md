@@ -1,13 +1,12 @@
 
-![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/3737f46e-16a3-4308-8c94-117b7240ad97)
 
-
+![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/63c10393-c55b-4b1d-8432-b5de2fcd346a)
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
 >   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/980dad23-62a4-4d3c-877e-bd4df8d63059" />
+  <img src="https://github.com/user-attachments/assets/2f840c6e-5142-4584-b10c-9d4ff752cf4a" />
   <br>
   <a href="https://www.linkedin.com/in/artsiom-krasouski-88405b258/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,7 +20,8 @@
 </p>
 
 
-![Orange And White Gradient Workshop Banner (1)](https://github.com/user-attachments/assets/418c3a3f-b128-491f-88a4-52ab2b624bab)
+![Orange And White Gradient Workshop Banner (1)](https://github.com/user-attachments/assets/e42ae0d2-122a-4d95-8ce7-5d0c800f45fc)
+
 
 <!--
 **arkrasouski/arkrasouski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

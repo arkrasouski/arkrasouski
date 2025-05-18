@@ -1,12 +1,13 @@
 
 
-![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/63c10393-c55b-4b1d-8432-b5de2fcd346a)
+![Orange And White Gradient Workshop Banner](https://github.com/user-attachments/assets/0b42725b-5ad3-44fa-8b23-27ae6579e6ef)
+
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
 >   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f840c6e-5142-4584-b10c-9d4ff752cf4a" />
+  <img src="https://github.com/user-attachments/assets/1f785750-9ae3-4c9f-899b-8ec2ba88acab" />
   <br>
   <a href="https://www.linkedin.com/in/artsiom-krasouski-88405b258/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,8 +20,9 @@
   </a>
 </p>
 
+![Orange And White Gradient Workshop Banner (1)](https://github.com/user-attachments/assets/b7153ae6-115b-4823-96e4-628f343b1b46)
 
-![Orange And White Gradient Workshop Banner (1)](https://github.com/user-attachments/assets/e42ae0d2-122a-4d95-8ce7-5d0c800f45fc)
+
 
 
 <!--
